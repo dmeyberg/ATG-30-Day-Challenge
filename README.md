@@ -6,3 +6,4 @@
 - re-watched Scott's video
 - My goal is to complete several AWS cloud courses, then Azure
 - First Goal is to complete AWS Cloud Practitioner Essentials
+### - completed a modules
