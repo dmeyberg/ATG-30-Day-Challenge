@@ -6,5 +6,5 @@
 - re-watched Scott's video 1/3/21
 - My goal is to complete several AWS cloud courses, then Azure
 - First Goal is to complete AWS Business Professional
-  - completed module 2  - APN 1/3/21
-  - competed modules 3 & 4 1/4/21
+  - completed module 2 - 1/3/21 (.5 hrs)
+  - competed modules 3 & 4 - 1/4/21 (1.5 hrs)
