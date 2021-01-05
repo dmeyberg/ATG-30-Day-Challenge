@@ -10,3 +10,5 @@
   - competed modules 3 & 4 - 1/4/21 (1.5 hrs)
   - completed modules 5 & 6. 1/5/21 (45 mins)
   - passed assessment (2nd try) 1/5/22 (45 mins)
+- Started AWS Cloud Prattitioner Essentials Course
+  - Completed Modules 1 & 2 (1.5 hrs) 1/5/21
