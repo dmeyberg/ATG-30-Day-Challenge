@@ -1,5 +1,5 @@
 # ATG-30-Day-Challenge - December 2020
-## set up challeneg
+## set up challenge
 - watched Scott's video
 # ATG-30-Day-Challenge - January 2021
 ## Get started for January
