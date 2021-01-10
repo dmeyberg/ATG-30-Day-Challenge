@@ -13,3 +13,4 @@
 - Started AWS Cloud Prattitioner Essentials Course
   - Completed Modules 1 & 2 (1.5 hrs) 1/5/21
   - completed creating AWS account for homework assignment practice (1/8/21)
+  - completed Module 3 (1 hr) 1/10/21
