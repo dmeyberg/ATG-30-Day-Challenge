@@ -14,4 +14,4 @@
   - Completed Modules 1 & 2 (1.5 hrs) 1/5/21
   - completed creating AWS account for homework assignment practice (1/8/21)
   - completed Module 3 (1 hr) 1/10/21
-  - completed Modules 4 & % (2.5 hrs) 1/11/21
+  - completed Modules 4 & 5 (2.5 hrs) 1/11/21
