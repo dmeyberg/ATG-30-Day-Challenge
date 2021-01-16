@@ -18,5 +18,5 @@
   - working on Module 6 (15 mins) 1/13/21
   - working on modlule 6 (15 mins) 1/14/21
   - completed mopdule 6 & started 7 (2 hrs) 1/15/21)
-  - completed Module 7 (45 mins) 1/16/21
-  - started module 8 (43 mns) 1/16/21
+  - completed Module 7 (35 mins) 1/16/21
+  - completed module 8 (35 mns) 1/16/21
