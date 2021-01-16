@@ -20,3 +20,4 @@
   - completed mopdule 6 & started 7 (2 hrs) 1/15/21)
   - completed Module 7 (35 mins) 1/16/21
   - completed module 8 (35 mns) 1/16/21
+  - hands-on AWS free tier work - IAM, MFA, Lightsail (1 hr) 1/16/21
