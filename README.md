@@ -22,3 +22,5 @@
   - completed module 8 (35 mns) 1/16/21
   - hands-on AWS free tier work - IAM, MFA, Lightsail (1 hr) 1/16/21
   - completed module 9 (45 mins) 1/17/21
+  - completed modules 10 & 11 (60 mins) 1/18/12
+  -
