@@ -24,3 +24,8 @@
   - completed module 9 (45 mins) 1/17/21
   - completed modules 10 & 11 (100 mins) 1/18/12
   - completed course exam (67%) (20 mins) 1/18/21
+  - started M/A Azure Cloud Basics Course (30 mins) 1/18/21
+  - researched application security testing on web
+    - security frameworks
+    - security testing tools
+    - NIST, OWASP etc. (4 hrs) 1/18/21
