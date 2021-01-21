@@ -29,3 +29,4 @@
     - security frameworks
     - security testing tools
     - NIST, OWASP etc. (4 hrs) 1/18/21
+  - learning OWASP. (1 hrs) 1/21/21
