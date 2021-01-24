@@ -31,4 +31,5 @@
     - NIST, OWASP etc. (4 hrs) 1/18/21
   - learning OWASP. (1 hrs) 1/21/21
   - researching and reading about security 1/22/21 (2 hrs)
-  - PLuralsigh - CISM course (1/23/21
+  - PLuralsight - CISM course (30 mins)(1/23/21)
+  - PluralSight - Ethical Hacking (30 mins) 1/24/21
