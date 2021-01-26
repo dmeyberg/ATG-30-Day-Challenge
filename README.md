@@ -33,3 +33,4 @@
   - researching and reading about security 1/22/21 (2 hrs)
   - PLuralsight - CISM course (30 mins)(1/23/21)
   - PluralSight - Ethical Hacking (30 mins) 1/24/21
+  - Researchiing JIRA Git plugIn and Teams Integration w/Jira Service Management (2 hrs) 1/26/21
