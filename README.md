@@ -34,3 +34,4 @@
   - PLuralsight - CISM course (30 mins)(1/23/21)
   - PluralSight - Ethical Hacking (30 mins) 1/24/21
   - Researchiing JIRA Git plugIn and Teams Integration w/Jira Service Management (2 hrs) 1/26/21
+  - reviewing mobile security course in Pluralsigh (1/27/21 (1 hrs)
