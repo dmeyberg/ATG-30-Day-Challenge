@@ -35,4 +35,5 @@
   - PluralSight - Ethical Hacking (30 mins) 1/24/21
   - Researchiing JIRA Git plugIn and Teams Integration w/Jira Service Management (2 hrs) 1/26/21
   - reviewing mobile security course in Pluralsight (1/27/21 (1 hrs)
-  - reviewing JIRA for pulling issues form multiple boards(2.5 hs)
+  - reviewing JIRA for pulling issues form multiple boards(2.5 hs) 1/2/21)
+  - Learning Status template in Confluence (15 mins) 1/30/21
